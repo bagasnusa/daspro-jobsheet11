@@ -1,3 +1,4 @@
+//bagas nusa tama 
 import java.util.Scanner;
 import java.util.Random;
 
@@ -22,7 +23,7 @@ public class Quiz06 {
                 } else {
                     System.out.println("Coba lagi.");
                     if (answer < number){
-                        System.out.println("Angka yang di masukkan lebih kecil dari jawaban gaes");
+                        System.out.println("Angka yang di masukkan lebih kecil dari jawaban gaesgit");
                     } else {
                         System.out.println("Angka lebih besar dari jawan gaes");
                     }
