@@ -23,7 +23,7 @@ public class Quiz06 {
                 } else {
                     System.out.println("Coba lagi.");
                     if (answer < number){
-                        System.out.println("Angka yang di masukkan lebih kecil dari jawaban gaesgit");
+                        System.out.println("Angka yang di masukkan lebih kecil dari jawaban gaes");
                     } else {
                         System.out.println("Angka lebih besar dari jawan gaes");
                     }
