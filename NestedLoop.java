@@ -1,3 +1,4 @@
+// BAGAS NUSA TAMA
 import java.util.Scanner;
 
 public class NestedLoop {
@@ -27,7 +28,6 @@ public class NestedLoop {
         //     //     System.out.print(temps[i][j] +"");
         //     for (double temp : temps[i]) {
         //         System.out.print(temp + " ");
-
         //     }
         //     System.out.println();
          }
